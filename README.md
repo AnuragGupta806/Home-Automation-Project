@@ -1,6 +1,6 @@
 # Home-Automation-Project
 
-This projecct was developed by my team for Prosang2.0 for Smart home challenge during first year of our college.
+This project was developed by my team for Prosang2.0 for Smart home challenge during first year of our college.
 
 
 Team members:   Yaggya Garg
