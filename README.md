@@ -6,6 +6,7 @@ This project was developed by my team for Prosang2.0 for Smart home challenge du
 Team members:   Yaggya Garg
 		            Sumit Singh
 		            Vedansh Singh Lodhi
+			    Prakhar Jain
 
 
 A detailed information about the project is given in the Abstract document(it was made for techkriti ECDC challenge) attached to this repository.
